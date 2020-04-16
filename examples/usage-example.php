@@ -2,7 +2,7 @@
 
 include '../src/Phois/Whois/Whois.php';
 
-$sld = 'reg.ru';
+$sld = 'yundun.com';
 
 $domain = new Phois\Whois\Whois($sld);
 
